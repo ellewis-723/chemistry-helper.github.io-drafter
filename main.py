@@ -606,8 +606,8 @@ set_site_information(
         "Drafter documentation: https://drafter-edu.github.io/drafter/",
         "LLM conversation: llm_conversation.md",
     ],
-    planning=["Final_Project_Design.docx"],
-    links=["https://github.com/YOUR-USERNAME/YOUR-REPO"],
+    planning=["compsci_projectdesign.pdf"],
+    links=["https://github.com/ellewis-723/chemistry-helper"],
 )
 hide_debug_information()
 set_website_framed(False)
